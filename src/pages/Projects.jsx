@@ -11,7 +11,7 @@ const Projects = () => {
             <p>
               Developed a feature-rich e-commerce app with React.js and Redux, including cart and wishlist functionality.
             </p>
-            <link to="https://github.com/your-github/ecommerce-project" target="_blank" className="btn btn-primary ">GitHub</link>
+            <link to="https://github.com/Gaurav-Bisla-Coder/ecommerce-frontend" target="_blank" className="btn btn-primary ">GitHub</link>
           </div>
         </div>
         <div className="col-md-4">
